@@ -1,7 +1,3 @@
-Sure! Here's a plain text version of the README you can copy and paste directly:
-
----
-
 # Zoho.Sheet.SDK
 
 Zoho.Sheet.SDK is a .NET SDK that provides a strongly-typed and developer-friendly interface to interact with Zoho Sheet APIs. It allows you to programmatically manage workbooks, worksheets, tables, columns, and records without manually handling HTTP requests.
@@ -135,6 +131,3 @@ This project is licensed under the MIT License.
 * Inspired by the Smartsheet SDK
 * Zoho Sheet API Documentation: [https://www.zoho.com/sheet/api/](https://www.zoho.com/sheet/api/)
 
----
-
-If you want, I can also **write a compact “Quick Start” section** showing all common methods in one place so users can copy/paste faster. Do you want me to do that?
